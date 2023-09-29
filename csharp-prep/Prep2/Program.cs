@@ -25,7 +25,7 @@ class Program
         {
             Console.WriteLine("You have a 'D'. You are close to failing, you can get your gread up :D");
         }
-        else if (grade < 60)
+        else
         {
             Console.WriteLine("You have a 'F'. You are failing");
         }
