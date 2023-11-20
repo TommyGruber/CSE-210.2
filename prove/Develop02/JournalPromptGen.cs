@@ -32,4 +32,5 @@ public class JournalPromptGenerator
 
         return prompt;
     }
+    
 }
